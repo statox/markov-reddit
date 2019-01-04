@@ -1,0 +1,11 @@
+{
+    "SUBREDDIT": "showerthoughts",
+    "POSTS_FILE": "./data/posts/posts-showerthoughts.txt",
+    "COUNT": 10,
+
+    "ORDER": 2,
+    "MODEL_FILE": "./data/models/markov-showerthoughts-order2.json",
+
+    "DEVIATION_TARGET": 6,
+    "MAX_TRIES" : 100
+}
